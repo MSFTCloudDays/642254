@@ -30,12 +30,16 @@ Sr. Customer Success Account Manager
 - placeholder  
 
 ### Digital & App Innovation
+*Cloud native & AI-infused application development, app modernization*
 - **Heather Brevard**  
 Sr. Digital & App Innovation Specialist  
 [heather.brevard@microsoft.com](heather.brevard@microsoft.com)
 
 ### Developer Productivity
+*Developer happiness, AI-assisted development, DevSecOps*
 - **Steve Lange**  
 Sr. Developer Audience Specialist   
 [stevenl@microsoft.com](stevenl@microsoft.com)
 
+---
+We look forward to working with you!
