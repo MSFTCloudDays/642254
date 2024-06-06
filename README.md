@@ -7,7 +7,7 @@ Please reach out to any of us listed below and we'll be happy to set up a chat!
 
 ## Primary Account Team
 - **Pankaj Vats**  
-Strategic Account Executive  
+Account Executive  
 [pankaj.vats@microsoft.com](pankaj.vats@microsoft.com)
 
 - **Greg Adair**   
@@ -15,7 +15,7 @@ Account Technology Strategist
 [gregory.adair@microsoft.com](gregory.adair@microsoft.com)  
 
 - **Alex Summerall**  
-Sr. Customer Success Account Manager
+Sr. Customer Success Account Manager  
 [alexsum@microsoft.com](alexsum@microsoft.com)  
 
 ## Microsoft Azure
