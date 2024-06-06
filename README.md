@@ -1,7 +1,7 @@
-![Microsoft](/assets/msftlogo2small.jpeg)
-# Eli Lilly Cloud Day 2024
+![Microsoft](/assets/msftlogo2small.jpeg)  
+# Cloud Day 2024
 
-## Meet your Microsoft Sponsors
+**Meet your Microsoft Sponsors**
 
 Please reach out to any of us listed below and we'll be happy to set up a chat!
 
